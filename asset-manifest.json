@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-card-portfolio/static/css/main.d7da34c1.css",
+    "main.js": "/react-card-portfolio/static/js/main.07a1973c.js",
+    "static/media/development.svg": "/react-card-portfolio/static/media/development.7230441af1aaa6399b36d1c7039114ab.svg",
+    "static/media/seo.svg": "/react-card-portfolio/static/media/seo.dcfad79f92467380fa912d900a2ce4c9.svg",
+    "static/media/redesign.svg": "/react-card-portfolio/static/media/redesign.3c41e3d85948b53c14bbf00a90ef2b9a.svg",
+    "static/media/design.svg": "/react-card-portfolio/static/media/design.76dc861019a087aecb2952d40f548d35.svg",
+    "static/media/consulting.svg": "/react-card-portfolio/static/media/consulting.f32987e96582534bcad33d80357b2549.svg",
+    "index.html": "/react-card-portfolio/index.html",
+    "main.d7da34c1.css.map": "/react-card-portfolio/static/css/main.d7da34c1.css.map",
+    "main.07a1973c.js.map": "/react-card-portfolio/static/js/main.07a1973c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.07a1973c.js"
+  ]
+}
